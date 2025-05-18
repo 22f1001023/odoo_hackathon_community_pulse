@@ -29,7 +29,7 @@ pip install --upgrade setuptools
 pip install flask_security
 pip install bcrypt)
 
-after this run this cmnd 
+after this run this cmnd: 
 python app.py
 
 it will give a link like below: 
